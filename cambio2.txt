@@ -1,2 +1,3 @@
 probando 2 usuarios
 cambios al mismo tiempo usuario2
+tocando el mismo archivo
